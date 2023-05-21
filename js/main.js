@@ -27,13 +27,13 @@ let pokemons = [
     {
         nombre: 'Arcanine',
         tipo: 'Fuego',
-        img: 'img/Arcanine.jpg'
+        img: 'img/arcanine.jpg'
     },
   
     {
         nombre: 'Gengar',
         tipo: 'Fantasma',
-        img: 'img/Gengar.jpg'
+        img: 'img/gengar.jpg'
     },
 ];
 
