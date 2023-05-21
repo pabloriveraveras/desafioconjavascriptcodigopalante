@@ -80,5 +80,7 @@ pokemons.forEach(function(pokemon) {
 
   let pokemonListItem = crearHTMLPokemon(pokemon)
 
+  
+
   listaPokemons.appendChild(pokemonListItem);
 });
