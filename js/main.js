@@ -27,7 +27,7 @@ let pokemons = [
     {
         nombre: 'Arcanine',
         tipo: 'Fuego',
-        img: src = 'img/arcanine.jpg'
+        img: src = 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png'
 
     
     },
@@ -35,7 +35,7 @@ let pokemons = [
     {
         nombre: 'Gengar',
         tipo: 'Fantasma',
-        img: src = 'img/gengar.jpg'
+        img: src = 'https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png'
     },
 ];
 
